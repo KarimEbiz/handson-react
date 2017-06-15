@@ -52,3 +52,13 @@ module.exports = config;
 
 ## Bonus
 Going further, ship with your code the version of the application and display it in the console of the app and in your web page.
+
+
+
+
+
+## MYWORK
+
+npm install webpack-dev-server --save-dev
+npm install --save-dev webpack
+npm install --save-dev transfer-webpack-plugin
